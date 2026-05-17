@@ -1,0 +1,94 @@
+{
+    "metas": [
+        {
+            "id": "tt1190634",
+            "type": "series",
+            "name": "The Boys",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_1.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png"
+        },
+        {
+            "id": "tt33265765",
+            "type": "series",
+            "name": "Personas",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_2.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/1IaJAvQvUpBXGX4oW2Bpwfp9e8D.jpg",
+            "logo": "https://image.tmdb.org/t/p/original/pCQQpOE6gqPTYbuPvkzP9OliDfm.png"
+        },
+        {
+            "id": "tt8772296",
+            "type": "series",
+            "name": "Euphoria",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_3.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/3o1S8814htDg63MtITB231d56zi.png"
+        },
+        {
+            "id": "tt9813792",
+            "type": "series",
+            "name": "Origem",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_4.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/uyMBLkWUBgwysZf29Ty1DhwKIIP.png"
+        },
+        {
+            "id": "tt27331527",
+            "type": "series",
+            "name": "Homem em Chamas",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_5.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
+            "logo": "https://image.tmdb.org/t/p/original/lCNOqWa0nWtsKiowWcipstivZrl.png"
+        },
+        {
+            "id": "tt18923754",
+            "type": "series",
+            "name": "Demolidor: Renascido",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_6.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
+            "logo": "https://image.tmdb.org/t/p/original/bIicKWq8XjsvIqm5loJn8mD2HgD.png"
+        },
+        {
+            "id": "tt33332385",
+            "type": "series",
+            "name": "O Segredo de Widow's Bay",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_7.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/sII76fRFZY3vWkO5WIVj1kk40H8.png"
+        },
+        {
+            "id": "tt9794044",
+            "type": "series",
+            "name": "Citadel",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_8.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/mce2ZupMnD6fmIT5AcpriP3zNTA.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/7QLowVo2NpdybpxLyfpV5LcwKDv.png"
+        },
+        {
+            "id": "tt36594331",
+            "type": "series",
+            "name": "Star Wars: Maul - Lorde das Sombras",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_9.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/hg36hceRcK2mqxuNYh0ZbXDPGRs.png"
+        },
+        {
+            "id": "tt33253070",
+            "type": "series",
+            "name": "M.I.A.",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_10.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/uDxlriNvtxdizceQKQllwhC0lYG.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/4MFO1GLwwCWJp16kMsHmE7P4na2.png"
+        }
+    ]
+}
