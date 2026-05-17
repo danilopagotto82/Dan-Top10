@@ -1,0 +1,94 @@
+{
+    "metas": [
+        {
+            "id": "tt11378946",
+            "type": "movie",
+            "name": "Michael",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_1.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/wJHlHY0t6iBq6JRyCZNCH7cKzl1.png"
+        },
+        {
+            "id": "tt17490712",
+            "type": "movie",
+            "name": "Mortal Kombat 2",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_2.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/g3Ieoiiyfa0FOJR7LcoJZgh2Arf.png"
+        },
+        {
+            "id": "tt33100314",
+            "type": "movie",
+            "name": "Criaturas Extraordinariamente Brilhantes",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_3.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/cm3TmfEcLhs2FaDEUUSWgpK3VRC.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/dmeLs38lcpKoRMSKWad3GrLjflA.png"
+        },
+        {
+            "id": "tt33612209",
+            "type": "movie",
+            "name": "O Diabo Veste Prada 2",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_4.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/d4hqEtkFKQGP8Qypcbc6EZWmuka.png"
+        },
+        {
+            "id": "tt33764258",
+            "type": "movie",
+            "name": "A Odisseia",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_5.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/jpLOFTHacWoxCTCLRePVlLHxrbo.png"
+        },
+        {
+            "id": "tt16431404",
+            "type": "movie",
+            "name": "O Jogo do Predador",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_6.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
+            "logo": "https://image.tmdb.org/t/p/original/t5WY7fBNee2SMkdIlClfJZw5QvW.png"
+        },
+        {
+            "id": "tt12042730",
+            "type": "movie",
+            "name": "Devoradores de Estrelas",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_7.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+            "logo": "https://image.tmdb.org/t/p/original/wxmXmN6o0gskcBFw9KOMjmPc420.png"
+        },
+        {
+            "id": "tt32565993",
+            "type": "movie",
+            "name": "As Ovelhas Detetives",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_8.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/yNZFlqW9n8UErg4e3AjSxZagkyW.png"
+        },
+        {
+            "id": "tt8036976",
+            "type": "movie",
+            "name": "Socorro!",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_9.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/fBh0OlTY5XSHuFrQ7ylXHniwg9s.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/fwLbi0rrIz8xgUCUVXH5n4RDkIx.png"
+        },
+        {
+            "id": "tt29552248",
+            "type": "movie",
+            "name": "Como Mágica",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_10.png",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/4iEHnkKkEugzulWRd9A7LfgBD25.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/85HrzDdL4XKhwl69xrNJuW1d2xD.png"
+        }
+    ]
+}
