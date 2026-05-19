@@ -18,22 +18,26 @@
         {
             "type": "movie",
             "id": "top10_filmes_br",
-            "name": "Top 10 Filmes (Brasil)"
+            "name": "🇧🇷 Top 10 Brasil",
+            "posterShape": "square"
         },
         {
             "type": "movie",
             "id": "top10_filmes_wd",
-            "name": "Top 10 Filmes (Mundo)"
+            "name": "🌍 Top 10 Mundo",
+            "posterShape": "square"
         },
         {
             "type": "series",
             "id": "top10_series_br",
-            "name": "Top 10 Séries (Brasil)"
+            "name": "🇧🇷 Top 10 Brasil",
+            "posterShape": "square"
         },
         {
             "type": "series",
             "id": "top10_series_wd",
-            "name": "Top 10 Séries (Mundo)"
+            "name": "🌍 Top 10 Mundo",
+            "posterShape": "square"
         }
     ]
 }
