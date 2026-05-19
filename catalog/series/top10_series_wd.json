@@ -1,94 +1,94 @@
 {
     "metas": [
         {
-            "id": "tt1190634",
-            "type": "series",
-            "name": "The Boys",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_1.png",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png"
-        },
-        {
-            "id": "tt33265765",
-            "type": "series",
-            "name": "Personas",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_2.png",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/1IaJAvQvUpBXGX4oW2Bpwfp9e8D.jpg",
-            "logo": "https://image.tmdb.org/t/p/original/pCQQpOE6gqPTYbuPvkzP9OliDfm.png"
-        },
-        {
-            "id": "tt8772296",
-            "type": "series",
-            "name": "Euphoria",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_3.png",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/3o1S8814htDg63MtITB231d56zi.png"
-        },
-        {
             "id": "tt9813792",
             "type": "series",
             "name": "Origem",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_4.png",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_1.jpg",
             "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/uyMBLkWUBgwysZf29Ty1DhwKIIP.png"
         },
         {
-            "id": "tt27331527",
+            "id": "tt8772296",
             "type": "series",
-            "name": "Homem em Chamas",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_5.png",
+            "name": "Euphoria",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_2.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/dMCfHJRnAZfKoPTjYyZk2QCL8au.jpg",
-            "logo": "https://image.tmdb.org/t/p/original/lCNOqWa0nWtsKiowWcipstivZrl.png"
+            "background": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/3o1S8814htDg63MtITB231d56zi.png"
         },
         {
-            "id": "tt18923754",
+            "id": "tt1190634",
             "type": "series",
-            "name": "Demolidor: Renascido",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_6.png",
+            "name": "The Boys",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_3.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/qHCpG49qxs4owLgmhh0T62ErUZv.jpg",
-            "logo": "https://image.tmdb.org/t/p/original/bIicKWq8XjsvIqm5loJn8mD2HgD.png"
+            "background": "https://image.tmdb.org/t/p/original/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png"
         },
         {
-            "id": "tt33332385",
+            "id": "tt36849871",
             "type": "series",
-            "name": "O Segredo de Widow's Bay",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_7.png",
+            "name": "Marshals: Uma História de Yellowstone",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_4.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/sII76fRFZY3vWkO5WIVj1kk40H8.png"
+            "background": "https://image.tmdb.org/t/p/original/ihT4s15wPjqXLblKlE6cwBhJVz4.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/nME4la4JnX5WBXXyMQFGQ05LD26.png"
         },
         {
-            "id": "tt9794044",
+            "id": "tt13875494",
             "type": "series",
-            "name": "Citadel",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_8.png",
+            "name": "O Rastreador",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_5.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/mce2ZupMnD6fmIT5AcpriP3zNTA.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/7QLowVo2NpdybpxLyfpV5LcwKDv.png"
+            "background": "https://image.tmdb.org/t/p/original/5C5cMYUlmX6BU5YxBqhp7ZpSd3Q.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/90ZA0cCOU0Wo3tXoGQZgCeqb8Ov.png"
         },
         {
-            "id": "tt36594331",
+            "id": "tt0182576",
             "type": "series",
-            "name": "Star Wars: Maul - Lorde das Sombras",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_9.png",
+            "name": "Uma Família da Pesada",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_6.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/5SrsdKcN9Flvccq59sIfJbhq1Fk.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/hg36hceRcK2mqxuNYh0ZbXDPGRs.png"
+            "background": "https://image.tmdb.org/t/p/original/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/4gl00NPDu3y01X9w5AaMOa5cJ4M.png"
         },
         {
-            "id": "tt33253070",
+            "id": "tt30459041",
             "type": "series",
-            "name": "M.I.A.",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_10.png",
+            "name": "Seus Amigos e Vizinhos",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_7.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/uDxlriNvtxdizceQKQllwhC0lYG.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/4MFO1GLwwCWJp16kMsHmE7P4na2.png"
+            "background": "https://image.tmdb.org/t/p/original/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/yjOJJZMfmgaNoTL0cfIHF20ILRL.png"
+        },
+        {
+            "id": "tt34991493",
+            "type": "series",
+            "name": "Rancho Dutton",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_8.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/wQ7FFixqLXD2aOqtoiawyz7IbVx.png"
+        },
+        {
+            "id": "tt7491982",
+            "type": "series",
+            "name": "FBI",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_9.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/5DFvscYGpcFaQMJljCic5gbzVe6.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/uGbXiqbgvxpz33n1jJn4AfctFgV.png"
+        },
+        {
+            "id": "tt7772588",
+            "type": "series",
+            "name": "For All Mankind",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_10.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/9OQ5BIITkJwRJo9JA6AlCfJIGBQ.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/w9yzvEfe3Sy9W0PZgBRLAsktOol.png"
         }
     ]
 }
