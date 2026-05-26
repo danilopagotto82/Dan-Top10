@@ -2,7 +2,7 @@
     "id": "com.listatop10.stremio",
     "version": "1.0.0",
     "name": "Lista Top10 Oficial",
-    "description": "Listas do Top 10 atualizadas",
+    "description": "Listas do Top 10",
     "resources": [
         "catalog",
         "meta"
