@@ -1,94 +1,94 @@
 {
     "metas": [
         {
-            "id": "tt9813792",
-            "type": "series",
-            "name": "Origem",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_1.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/auyEi4Xho43HFvVQnd42LzqBdiV.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/uyMBLkWUBgwysZf29Ty1DhwKIIP.png"
-        },
-        {
-            "id": "tt1190634",
-            "type": "series",
-            "name": "The Boys",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_2.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/bq28ajZaoMyzEIm6REelqyqtEDZ.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/xawDgfkBQaocXR9CljBMjkYpXNK.png"
-        },
-        {
-            "id": "tt8772296",
-            "type": "series",
-            "name": "Euphoria",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_3.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/mez2Z3WqlPKNXpi7mWoiiE5guE9.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/3o1S8814htDg63MtITB231d56zi.png"
-        },
-        {
-            "id": "tt18923754",
-            "type": "series",
-            "name": "Demolidor: Renascido",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_4.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/bIicKWq8XjsvIqm5loJn8mD2HgD.png"
-        },
-        {
-            "id": "tt33332385",
-            "type": "series",
-            "name": "O Segredo de Widow's Bay",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_5.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/u6XtMg9Ai9siEbEs0UudPS3EaZY.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/sII76fRFZY3vWkO5WIVj1kk40H8.png"
-        },
-        {
             "id": "tt31938062",
             "type": "series",
             "name": "The Pitt",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_6.jpg",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_1.jpg",
             "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/zqsePGDhPnk5KpSjlZFpmZyy8h6.png"
         },
         {
-            "id": "tt6741278",
+            "id": "tt30460310",
             "type": "series",
-            "name": "INVENCÍVEL",
+            "name": "Spider-Noir",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_2.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/19yUwtpsnI2o9DIvA3A2jrKJcOd.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/xihN9S2rx0dqdh6Xq5azdJ2N8wm.png"
+        },
+        {
+            "id": "tt27497448",
+            "type": "series",
+            "name": "O Cavaleiro dos Sete Reinos",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_3.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/tFvhSzZrwnbFCkTW4b9veeXfBj0.png"
+        },
+        {
+            "id": "tt27557666",
+            "type": "series",
+            "name": "Senhor das Moscas",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_4.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/yRqFvu6rIytqZlzY0pBVvZG3W0S.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/m7e4KaIr40iNgLYP4pCuKPtSIhp.png"
+        },
+        {
+            "id": "tt34991493",
+            "type": "series",
+            "name": "Rancho Dutton",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_5.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/ewlmL0nxo2lLqBj69upgp2gjHpV.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/wQ7FFixqLXD2aOqtoiawyz7IbVx.png"
+        },
+        {
+            "id": "tt27557289",
+            "type": "series",
+            "name": "The Boroughs",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_6.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/tFNKk1t5sH27jAKh497pYh4hmzJ.png"
+        },
+        {
+            "id": "tt36022742",
+            "type": "series",
+            "name": "Nêmesis",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_7.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/9qrroces8C6R9aKr08hACNPVXdZ.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/kmv1XwvfbtMrxxU9GIgunPtcvxn.png"
+            "background": "https://image.tmdb.org/t/p/original/pxnJeLSBdUikUOrWdNgrK1HQy2u.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/pkHeQQdPvpYjPvponSvEePPdG2V.png"
         },
         {
-            "id": "tt31137273",
+            "id": "tt15716776",
             "type": "series",
-            "name": "Margô Está em Apuros",
+            "name": "Devil May Cry",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_8.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/r1lGjwTRF0RGYFHzvt3SupArmRy.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/rYe0h5C23gIqWjIBbmYOXlAgwSo.png"
+            "background": "https://image.tmdb.org/t/p/original/nLyXXIDMpDHvUgxchezxuhoJ4Ej.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/o9hnKyKcgroZbpT9bRIqhftxdJ6.png"
         },
         {
-            "id": "tt30459041",
+            "id": "tt35946742",
             "type": "series",
-            "name": "Seus Amigos e Vizinhos",
+            "name": "Prazer Máximo Garantido",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_9.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/d8LvQj79fgowZkX4NTZaEG3NwsH.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/yjOJJZMfmgaNoTL0cfIHF20ILRL.png"
+            "background": "https://image.tmdb.org/t/p/original/9mZlvYlGA4jblCvAvOpinrgn6hr.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/m2EKhwuk6zsyPHGAnxweSc3IgDs.png"
         },
         {
-            "id": "tt14403178",
+            "id": "tt33546863",
             "type": "series",
-            "name": "Treta",
+            "name": "Off Campus: Amores Improváveis",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_br_10.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/2VHbof9yaNhovEnaancBkXEULCT.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/rwCuJOtUZZlnnaEXMA5vQC4xiY0.png"
+            "background": "https://image.tmdb.org/t/p/original/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/6VBh9QyUepypVJF95rQqinswvES.png"
         }
     ]
 }
