@@ -2,7 +2,7 @@
     "id": "com.listatop10.stremio",
     "version": "1.0.0",
     "name": "Lista Top10 Oficial",
-    "description": "Listas geradas e renderizadas por código Automático.",
+    "description": "Listas do Top 10 atualizadas",
     "resources": [
         "catalog",
         "meta"
@@ -18,25 +18,25 @@
         {
             "type": "movie",
             "id": "top10_filmes_br",
-            "name": "🇧🇷 Top 10 Brasil",
+            "name": "🔝 Top 10 Filmes",
             "posterShape": "square"
         },
         {
             "type": "movie",
             "id": "top10_filmes_wd",
-            "name": "🌍 Top 10 Mundo",
+            "name": "🍿 Top 10 Próximos Lançamentos",
             "posterShape": "square"
         },
         {
             "type": "series",
             "id": "top10_series_br",
-            "name": "🇧🇷 Top 10 Brasil",
+            "name": "🔝 Top 10 Séries",
             "posterShape": "square"
         },
         {
             "type": "series",
             "id": "top10_series_wd",
-            "name": "🌍 Top 10 Mundo",
+            "name": "🌍 Top 10 Pra Maratonar",
             "posterShape": "square"
         }
     ]
