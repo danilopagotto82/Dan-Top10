@@ -1,94 +1,94 @@
 {
     "metas": [
         {
-            "id": "tt12042730",
+            "id": "tt0427340",
             "type": "movie",
-            "name": "Devoradores de Estrelas",
+            "name": "Mestres do Universo",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_1.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/ib5dce2eOeaVdDboxZ6C2ZPIwdO.png"
+            "background": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/sQqwCMCGJ9FZTHG6VaBIkOaAWw7.png"
         },
         {
-            "id": "tt32612507",
+            "id": "tt32093575",
             "type": "movie",
-            "name": "Maldição da Múmia",
+            "name": "Todo Mundo em Pânico",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_2.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/wMrV8SLne1jHLeYS0lLrA1Tf86P.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/4xJ0N6Hu9zy06kw3RD1lMuTZi6P.png"
+            "background": "https://image.tmdb.org/t/p/original/pO7XVtgA6t5JbxY1S8Y4cQEFarR.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/tnZuWWlPkYqeLpZxnUFt8XzCDbV.png"
         },
         {
-            "id": "tt36042156",
+            "id": "tt15047880",
             "type": "movie",
-            "name": "O Justiceiro: Uma Última Morte",
+            "name": "Dia D",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_3.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/cccXiN28CPjcMVhji5LnogF4Njp.jpg",
-            "logo": "https://image.tmdb.org/t/p/original/ddwt2LeOrFB59no6y9CcQSdj1DV.png"
+            "background": "https://image.tmdb.org/t/p/original/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/2pWpVRlXwZCBPwhZianV98lKm4D.png"
         },
         {
-            "id": "tt17490712",
+            "id": "tt29355505",
             "type": "movie",
-            "name": "Mortal Kombat 2",
+            "name": "Toy Story 5",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_4.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/g3Ieoiiyfa0FOJR7LcoJZgh2Arf.png"
+            "background": "https://image.tmdb.org/t/p/original/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/lpkCnYrRSwR98DW9n8bbpWZlsiE.png"
         },
         {
-            "id": "tt40792117",
+            "id": "tt32273171",
             "type": "movie",
-            "name": "Colisão: Acidente ou Homicídio?",
+            "name": "A Morte de Robin Hood",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_5.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/2iqLoDsatVBwAvHTEzI71p3qBe9.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/y0YLsWPSkUEfqpkYiUBY9s51XDD.png"
+            "background": "https://image.tmdb.org/t/p/original/rixdSlXO2jSbZJCc6feXtpp0eT1.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/2RdRTXjBCEaUJcuZlgUyKKeMku4.png"
         },
         {
-            "id": "tt28650488",
+            "id": "tt22084616",
             "type": "movie",
-            "name": "Super Mario Galaxy: O Filme",
+            "name": "Homem-Aranha: Um Novo Dia",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_6.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/wDGKAxgMR56fzkgdY4424NV40IR.png"
+            "background": "https://image.tmdb.org/t/p/original/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/jOKz5DgckttT6PZ0zEBXqIuQiCU.png"
         },
         {
-            "id": "tt16431404",
+            "id": "tt8814476",
             "type": "movie",
-            "name": "O Jogo do Predador",
+            "name": "Supergirl",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_7.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/nVlBXCblucylhNK66kNQfpUZLtV.png"
+            "background": "https://image.tmdb.org/t/p/original/70GFlSR8e4A4sUZtWril19Cucy7.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png"
         },
         {
-            "id": "tt33100314",
+            "id": "tt38671408",
             "type": "movie",
-            "name": "Criaturas Extraordinariamente Brilhantes",
+            "name": "Labirinto dos Garotos Perdidos",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_8.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+            "background": "https://image.tmdb.org/t/p/original/h9InIQfRoJCUAZfz7Ic5P711vwF.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/dmeLs38lcpKoRMSKWad3GrLjflA.png"
         },
         {
-            "id": "tt33071426",
+            "id": "tt33096558",
             "type": "movie",
-            "name": "O Drama",
+            "name": "Cordélicos: A Origem do Cabra da Peste",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_9.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
+            "background": "https://image.tmdb.org/t/p/original/eYI6Rh1ku4BLxGlMxyZl4QnHANZ.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/avo09ZW43ImWtWrwhm7NyUUzmoo.png"
         },
         {
-            "id": "tt33612209",
+            "id": "tt2216550",
             "type": "movie",
-            "name": "O Diabo Veste Prada 2",
+            "name": "Se Eu Fosse Você 3",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_10.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/d4hqEtkFKQGP8Qypcbc6EZWmuka.png"
+            "background": "https://image.tmdb.org/t/p/original/7hA3JQ4sS48v2IWmUmlZ7c38K6Z.jpg",
+            "logo": "https://images.metahub.space/logo/medium/tt2216550/img"
         }
     ]
 }
