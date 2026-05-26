@@ -1,13 +1,13 @@
 {
     "metas": [
         {
-            "id": "tt12042730",
+            "id": "tt30825738",
             "type": "movie",
-            "name": "Devoradores de Estrelas",
+            "name": "Star Wars: O Mandaloriano e Grogu",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_1.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
-            "logo": "https://image.tmdb.org/t/p/original/wxmXmN6o0gskcBFw9KOMjmPc420.png"
+            "background": "https://image.tmdb.org/t/p/original/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/zzag2pCifCmFmNn0PLEyFXSUE8N.png"
         },
         {
             "id": "tt37287335",
@@ -15,80 +15,80 @@
             "name": "Obsessão",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_2.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/5kY3Aw2abeqr3YCJB6xourYMoma.jpg",
+            "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/vXo3Fd8Bl9v9OsHetfvwGGI6YGT.png"
-        },
-        {
-            "id": "tt29552248",
-            "type": "movie",
-            "name": "Como Mágica",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_3.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/v1ZdIuHLmv3NmDzOEXnNwZsnMNY.png"
-        },
-        {
-            "id": "tt33100314",
-            "type": "movie",
-            "name": "Criaturas Extraordinariamente Brilhantes",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_4.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/dmeLs38lcpKoRMSKWad3GrLjflA.png"
-        },
-        {
-            "id": "tt27543632",
-            "type": "movie",
-            "name": "A Empregada",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_5.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/57qkmczZnjT2Upe2a36sdmn1G6j.png"
-        },
-        {
-            "id": "tt33612209",
-            "type": "movie",
-            "name": "O Diabo Veste Prada 2",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_6.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/d4hqEtkFKQGP8Qypcbc6EZWmuka.png"
-        },
-        {
-            "id": "tt16431404",
-            "type": "movie",
-            "name": "O Jogo do Predador",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_7.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/nVlBXCblucylhNK66kNQfpUZLtV.png"
-        },
-        {
-            "id": "tt8036976",
-            "type": "movie",
-            "name": "Socorro!",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_8.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/fBh0OlTY5XSHuFrQ7ylXHniwg9s.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/fwLbi0rrIz8xgUCUVXH5n4RDkIx.png"
         },
         {
             "id": "tt11378946",
             "type": "movie",
             "name": "Michael",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_9.jpg",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_3.jpg",
             "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/wJHlHY0t6iBq6JRyCZNCH7cKzl1.png"
         },
         {
-            "id": "tt32430579",
+            "id": "tt33612209",
             "type": "movie",
-            "name": "Caminhos do Crime",
+            "name": "O Diabo Veste Prada 2",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_4.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/d4hqEtkFKQGP8Qypcbc6EZWmuka.png"
+        },
+        {
+            "id": "tt32565993",
+            "type": "movie",
+            "name": "As Ovelhas Detetives",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_5.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/yNZFlqW9n8UErg4e3AjSxZagkyW.png"
+        },
+        {
+            "id": "tt33763941",
+            "type": "movie",
+            "name": "Passageiro do Mal",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_6.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/hl7FEzMqgpsD0RfwMzskzQoiD1M.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/2wdMrwQHQ28q69IMvqmc3SUAL8W.png"
+        },
+        {
+            "id": "tt17490712",
+            "type": "movie",
+            "name": "Mortal Kombat 2",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_7.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/g3Ieoiiyfa0FOJR7LcoJZgh2Arf.png"
+        },
+        {
+            "id": "tt30827810",
+            "type": "movie",
+            "name": "I Love Boosters",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_8.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/2fuXHiUrCMp100jC6e4k2H222Jn.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/cJ5takLo8btQKnQHUQJypBmGRXO.png"
+        },
+        {
+            "id": "tt28650488",
+            "type": "movie",
+            "name": "Super Mario Galaxy: O Filme",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_9.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/wDGKAxgMR56fzkgdY4424NV40IR.png"
+        },
+        {
+            "id": "tt12042730",
+            "type": "movie",
+            "name": "Devoradores de Estrelas",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_10.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/uQXtqkSkoX5SyDNpwevVSIpcsys.png"
+            "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/ib5dce2eOeaVdDboxZ6C2ZPIwdO.png"
         }
     ]
 }
