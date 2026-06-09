@@ -1,94 +1,94 @@
 {
     "metas": [
         {
-            "id": "tt2628232",
+            "id": "tt11280740",
             "type": "series",
-            "name": "Penny Dreadful",
+            "name": "Ruptura",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_1.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/3bViM60LioKQJwsExm5oyLRYagC.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/4tp4K58Fv5MczJ8affiBhhcHhJq.png"
+            "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/jGScBKQNU5LUtF0agAse7o7wL8r.png"
         },
         {
-            "id": "tt2243973",
+            "id": "tt3581920",
             "type": "series",
-            "name": "Hannibal",
+            "name": "The Last of Us",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_2.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/vlG182ZY2WMzD5bjFZNnhyvv5V4.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/zskibizkSABuX2G3E7YuewTqiIi.png"
+            "background": "https://image.tmdb.org/t/p/original/acevLdSl5I2MK5RYAm7gwAndt1w.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/1RbjFHK2kCDoRk1gQKjYI809YTw.png"
         },
         {
-            "id": "tt2431438",
+            "id": "tt33043892",
             "type": "series",
-            "name": "Sense8",
+            "name": "Dexter: Ressurreição",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_3.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/TePSNzSC8NoOkB7D7eIP3nIL1V.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/fwgpy6lihf5lyWCOgwYJq0JolpJ.png"
+            "background": "https://image.tmdb.org/t/p/original/8J0SjKToFBbg8dKpocVOCsrC77C.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/cVVSBfebHlrSLsMXKYOarGGzQAk.png"
         },
         {
-            "id": "tt1119644",
+            "id": "tt34991493",
             "type": "series",
-            "name": "Fronteiras",
+            "name": "Rancho Dutton",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_4.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/eksjqZGaGUtSZJD6nWQPsqzDMn0.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/tYhEGgvZpYKRvGL7PmEFLmbLVLi.png"
+            "background": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/wQ7FFixqLXD2aOqtoiawyz7IbVx.png"
         },
         {
-            "id": "tt0813715",
+            "id": "tt13443470",
             "type": "series",
-            "name": "Heroes",
+            "name": "Wandinha",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_5.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/zoetbPF7jYY0jjY5js3x6r1QjSW.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/8XiCG6oZSaH5JyuRegSXPUFqFOz.png"
+            "background": "https://image.tmdb.org/t/p/original/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/aIsIyXshmYYNOIJJ88V7UThiVfP.png"
         },
         {
-            "id": "tt4820370",
+            "id": "tt10970762",
             "type": "series",
-            "name": "Channel Zero",
+            "name": "Os Testamentos: Das Filhas de Gilead",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_6.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/iXxiiIuK5KGcleWRq5bTXXoYK11.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/lxv8OI7gwtDLXBfpizXvMkautFQ.png"
+            "background": "https://image.tmdb.org/t/p/original/uCndE341njionskk1pK9SbHqwZh.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/ygqE5uo35iHMA93ISk7rUiPVHFH.png"
         },
         {
-            "id": "tt2963254",
+            "id": "tt8622160",
             "type": "series",
-            "name": "Salem",
+            "name": "Star Trek: Academia da Frota Estelar",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_7.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/f1sjJoT21vH9snaCjipKlMM1DCF.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/qFvoSCggvOWVwXBKNCxN7g1dMdi.png"
+            "background": "https://image.tmdb.org/t/p/original/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/bL8cdV1VwBjClt4mryvtB2R7P7R.png"
         },
         {
-            "id": "tt2309295",
+            "id": "tt21066182",
             "type": "series",
-            "name": "Hemlock Grove",
+            "name": "Magnum",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_8.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/nGFTegLPFXH2RzqNALTTh2I1fst.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/nHMDWdafchpA4vctgBkm3JPtdVV.png"
+            "background": "https://image.tmdb.org/t/p/original/los8S8iCRn5Q7irl0LNAp6C6Gmz.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/f52pjd8qszYQstFbgl8Hoousu0i.png"
         },
         {
-            "id": "tt10875696",
+            "id": "tt33204276",
             "type": "series",
-            "name": "Marianne",
+            "name": "Madison",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_9.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/yD01qWyOqc6J2lRutzOt3Wu8Wnz.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/tAr8pnxESI8oeTOthY5Iza2TdwO.png"
+            "background": "https://image.tmdb.org/t/p/original/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/2v3CGp4NHg5KLcbyMdwVrcVepWS.png"
         },
         {
-            "id": "tt2879552",
+            "id": "tt27610198",
             "type": "series",
-            "name": "11.22.63",
+            "name": "O Incrível Circo Digital",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_10.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/qVBExiGdG8uiPK9BcWD0881u8uh.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/2iTMgLrleJtJfTDRolc5Q8sfV2P.png"
+            "background": "https://image.tmdb.org/t/p/original/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/AkV6KknSHEBXDyuOJQqKo9aaKbk.png"
         }
     ]
 }
