@@ -1,94 +1,94 @@
 {
     "metas": [
         {
-            "id": "tt0427340",
+            "id": "tt28650488",
             "type": "movie",
-            "name": "Mestres do Universo",
+            "name": "Super Mario Galaxy: O Filme",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_1.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/sQqwCMCGJ9FZTHG6VaBIkOaAWw7.png"
+            "background": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/wDGKAxgMR56fzkgdY4424NV40IR.png"
+        },
+        {
+            "id": "tt26657236",
+            "type": "movie",
+            "name": "Backrooms: Um Não-Lugar",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_2.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/oHP5aXQ4gg15t9EsBhgKENeCKdG.png"
         },
         {
             "id": "tt32093575",
             "type": "movie",
             "name": "Todo Mundo em Pânico",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_2.jpg",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_3.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/pO7XVtgA6t5JbxY1S8Y4cQEFarR.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/tnZuWWlPkYqeLpZxnUFt8XzCDbV.png"
+            "background": "https://image.tmdb.org/t/p/original/lj6AaDqDUbzm2XJltFNHeAm2uXN.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/1OoK9NkATXlSqMmK34a6ZcC5mc3.png"
+        },
+        {
+            "id": "tt33397980",
+            "type": "movie",
+            "name": "Paixão de Escritório",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_4.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/erkh3hHfGh06qPQIuFpV0PoQeV8.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/fpE1SD3J9tpGcsRpVIhXv0lmks6.png"
+        },
+        {
+            "id": "tt12042730",
+            "type": "movie",
+            "name": "Devoradores de Estrelas",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_5.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/ib5dce2eOeaVdDboxZ6C2ZPIwdO.png"
+        },
+        {
+            "id": "tt0427340",
+            "type": "movie",
+            "name": "Mestres do Universo",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_6.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/tyRF4zi2D7x3vwsX2E24NUGPGVz.png"
+        },
+        {
+            "id": "tt30825738",
+            "type": "movie",
+            "name": "Star Wars: O Mandaloriano e Grogu",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_7.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/zzag2pCifCmFmNn0PLEyFXSUE8N.png"
+        },
+        {
+            "id": "tt33612209",
+            "type": "movie",
+            "name": "O Diabo Veste Prada 2",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_8.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/d4hqEtkFKQGP8Qypcbc6EZWmuka.png"
+        },
+        {
+            "id": "tt11378946",
+            "type": "movie",
+            "name": "Michael",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_9.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/zEMrTq3hkBW70iPcGDozW44taIz.png"
         },
         {
             "id": "tt15047880",
             "type": "movie",
             "name": "Dia D",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_3.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/2pWpVRlXwZCBPwhZianV98lKm4D.png"
-        },
-        {
-            "id": "tt29355505",
-            "type": "movie",
-            "name": "Toy Story 5",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_4.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/coyHrYHD2xHhDoYD6o4uwoJ2o7b.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/lpkCnYrRSwR98DW9n8bbpWZlsiE.png"
-        },
-        {
-            "id": "tt32273171",
-            "type": "movie",
-            "name": "A Morte de Robin Hood",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_5.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/rixdSlXO2jSbZJCc6feXtpp0eT1.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/2RdRTXjBCEaUJcuZlgUyKKeMku4.png"
-        },
-        {
-            "id": "tt22084616",
-            "type": "movie",
-            "name": "Homem-Aranha: Um Novo Dia",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_6.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/jOKz5DgckttT6PZ0zEBXqIuQiCU.png"
-        },
-        {
-            "id": "tt8814476",
-            "type": "movie",
-            "name": "Supergirl",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_7.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/70GFlSR8e4A4sUZtWril19Cucy7.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/sOKyZ1al829AnlmjWoghvzXFbQ6.png"
-        },
-        {
-            "id": "tt38671408",
-            "type": "movie",
-            "name": "Labirinto dos Garotos Perdidos",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_8.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/h9InIQfRoJCUAZfz7Ic5P711vwF.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/dmeLs38lcpKoRMSKWad3GrLjflA.png"
-        },
-        {
-            "id": "tt33096558",
-            "type": "movie",
-            "name": "Cordélicos: A Origem do Cabra da Peste",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_9.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/eYI6Rh1ku4BLxGlMxyZl4QnHANZ.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/avo09ZW43ImWtWrwhm7NyUUzmoo.png"
-        },
-        {
-            "id": "tt2216550",
-            "type": "movie",
-            "name": "Se Eu Fosse Você 3",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_wd_10.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/7hA3JQ4sS48v2IWmUmlZ7c38K6Z.jpg",
-            "logo": "https://images.metahub.space/logo/medium/tt2216550/img"
+            "background": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/2pWpVRlXwZCBPwhZianV98lKm4D.png"
         }
     ]
 }
