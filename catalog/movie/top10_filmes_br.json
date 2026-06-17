@@ -1,31 +1,31 @@
 {
     "metas": [
         {
-            "id": "tt1757678",
-            "type": "movie",
-            "name": "Avatar: Fogo e Cinzas",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_1.jpg",
-            "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/fd9Ua9zuT4p8K7AVri2aJ2b7QsC.png"
-        },
-        {
             "id": "tt12042730",
             "type": "movie",
             "name": "Devoradores de Estrelas",
-            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_2.jpg",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_1.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+            "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
             "logo": "https://image.tmdb.org/t/p/w500/ib5dce2eOeaVdDboxZ6C2ZPIwdO.png"
         },
         {
-            "id": "tt8036976",
+            "id": "tt33612209",
             "type": "movie",
-            "name": "Socorro!",
+            "name": "O Diabo Veste Prada 2",
+            "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_2.jpg",
+            "posterShape": "square",
+            "background": "https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/d4hqEtkFKQGP8Qypcbc6EZWmuka.png"
+        },
+        {
+            "id": "tt32141377",
+            "type": "movie",
+            "name": "Extermínio: O Templo dos Ossos",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_3.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/fwLbi0rrIz8xgUCUVXH5n4RDkIx.png"
+            "background": "https://image.tmdb.org/t/p/original/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/vKFEbxjAgb2WoTjINS7PjBGyPeh.png"
         },
         {
             "id": "tt26443616",
@@ -34,61 +34,61 @@
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_4.jpg",
             "posterShape": "square",
             "background": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/ib7qnSUbm2zACid6oSVgG1kt3ZG.png"
+            "logo": "https://image.tmdb.org/t/p/w500/3EssPaplwz6NpBUKaM7ttPQ8oDM.png"
         },
         {
-            "id": "tt32321317",
+            "id": "tt30851137",
             "type": "movie",
-            "name": "Pillion",
+            "name": "A Noiva!",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_5.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/rBYrtkAy9YtRuFpX1g6JbcjRT8h.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/jvkhGKWc6kVe5fsrTx47NKQgnLW.png"
+            "background": "https://image.tmdb.org/t/p/original/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/7zKbWbyoQ0NmQ4i0V6UROh3enbx.png"
         },
         {
-            "id": "tt33071426",
+            "id": "tt14850054",
             "type": "movie",
-            "name": "O Drama",
+            "name": "Destruição Final 2",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_6.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/rw1WmxUvmbwRsbAX12m6toIg04j.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/avo09ZW43ImWtWrwhm7NyUUzmoo.png"
+            "background": "https://image.tmdb.org/t/p/original/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/pLXn37271mFc9R6SmTfrK8CeDS4.png"
         },
         {
-            "id": "tt33397980",
+            "id": "tt15574124",
             "type": "movie",
-            "name": "Paixão de Escritório",
+            "name": "Peaky Blinders: O Homem Imortal",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_7.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/erkh3hHfGh06qPQIuFpV0PoQeV8.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/fpE1SD3J9tpGcsRpVIhXv0lmks6.png"
+            "background": "https://image.tmdb.org/t/p/original/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/2PWDGpSnsHnBvNuO8hc7SNmwFFT.png"
         },
         {
-            "id": "tt8865562",
+            "id": "tt33046197",
             "type": "movie",
-            "name": "A Testemunha",
+            "name": "Dupla Perigosa",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_8.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/wU57MNkOTtCvLgEfJzTUIGFdvbc.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/d4hqEtkFKQGP8Qypcbc6EZWmuka.png"
+            "background": "https://image.tmdb.org/t/p/original/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/wu1xtcU5TjTgQv3WivPw4jHtxMX.png"
         },
         {
-            "id": "tt33978029",
+            "id": "tt15940132",
             "type": "movie",
-            "name": "Casamento Sangrento: A Viúva",
+            "name": "Máquina de Guerra",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_9.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/qYNJm1GOB4nULxIoTO0zfqjSAkC.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/khYFOfQS0LkYCJG5gvooi8FX3X8.png"
+            "background": "https://image.tmdb.org/t/p/original/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/jSfDwUKkL9qgQjbKsJi6e0Oy3sL.png"
         },
         {
-            "id": "tt31728330",
+            "id": "tt27200708",
             "type": "movie",
-            "name": "Eles Vão te Matar",
+            "name": "Mother Mary",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/f_br_10.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/gZVzQT9zEKPCXAArlSQV80Lh1R8.png"
+            "background": "https://image.tmdb.org/t/p/original/pRrH098VPYiUtDwKOm2mVXVQZdf.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/8MHiD5Yig3Atm5SkbOcHF0azTSo.png"
         }
     ]
 }
