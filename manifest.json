@@ -18,25 +18,25 @@
         {
             "type": "movie",
             "id": "top10_filmes_br",
-            "name": "🔝 Top 10 - Filmes da Semana",
+            "name": "🔝 Top 10 Filmes da Semana",
             "posterShape": "square"
         },
         {
             "type": "movie",
             "id": "top10_filmes_wd",
-            "name": "🔝 Top 10 - Lançamentos do Momento",
+            "name": "🔝 Top 10  Estréias",
             "posterShape": "square"
         },
         {
             "type": "series",
             "id": "top10_series_br",
-            "name": "🔝 Top 10 - Séries da Semana",
+            "name": "🔝 Top 10 Séries da Semana",
             "posterShape": "square"
         },
         {
             "type": "series",
             "id": "top10_series_wd",
-            "name": "Top 10 - Séries comentadas",
+            "name": "🔝 Top 10 Séries Brasil",
             "posterShape": "square"
         }
     ]
