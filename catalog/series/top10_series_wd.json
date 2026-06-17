@@ -1,94 +1,93 @@
 {
     "metas": [
         {
-            "id": "tt11280740",
+            "id": "tt33332385",
             "type": "series",
-            "name": "Ruptura",
+            "name": "O Segredo de Widow's Bay",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_1.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/ixgFmf1X59PUZam2qbAfskx2gQr.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/jGScBKQNU5LUtF0agAse7o7wL8r.png"
+            "background": "https://image.tmdb.org/t/p/original/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/sII76fRFZY3vWkO5WIVj1kk40H8.png"
         },
         {
-            "id": "tt3581920",
+            "id": "tt34675596",
             "type": "series",
-            "name": "The Last of Us",
+            "name": "Cabo do Medo",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_2.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/acevLdSl5I2MK5RYAm7gwAndt1w.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/1RbjFHK2kCDoRk1gQKjYI809YTw.png"
+            "background": "https://image.tmdb.org/t/p/original/dz7p0quExY3L8R4aPj2QJUVhp74.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/4TcpfgtLdFVmCsJ57cIoXWEfWRa.png"
         },
         {
-            "id": "tt33043892",
+            "id": "tt10569934",
             "type": "series",
-            "name": "Dexter: Ressurreição",
+            "name": "Aqueles Prestes a Morrer",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_3.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/8J0SjKToFBbg8dKpocVOCsrC77C.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/cVVSBfebHlrSLsMXKYOarGGzQAk.png"
+            "background": "https://image.tmdb.org/t/p/original/vX71TGviqLsOtDNJ9q1QR4m14kH.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/mfHGN8HCOTjJw747xSEfq6q3feV.png"
         },
         {
-            "id": "tt34991493",
+            "id": "tt9813792",
             "type": "series",
-            "name": "Rancho Dutton",
+            "name": "Origem",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_4.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/wQ7FFixqLXD2aOqtoiawyz7IbVx.png"
+            "background": "https://image.tmdb.org/t/p/original/m7eiSGHFzr584zFmetGqkqaU6BN.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/uyMBLkWUBgwysZf29Ty1DhwKIIP.png"
         },
         {
-            "id": "tt13443470",
+            "id": "tt5016504",
             "type": "series",
-            "name": "Wandinha",
+            "name": "Preacher",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_5.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/iHSwvRVsRyxpX7FE7GbviaDvgGZ.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/aIsIyXshmYYNOIJJ88V7UThiVfP.png"
+            "background": "https://image.tmdb.org/t/p/original/bENaaAmX4d0zUYYrZyFCT1U0V86.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/eEDtOFK38K1Fxw1yBXCVx5CaacL.png"
         },
         {
-            "id": "tt10970762",
+            "id": "tt42543947",
             "type": "series",
-            "name": "Os Testamentos: Das Filhas de Gilead",
+            "name": "O Polígamo",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_6.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/uCndE341njionskk1pK9SbHqwZh.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/ygqE5uo35iHMA93ISk7rUiPVHFH.png"
+            "background": "https://image.tmdb.org/t/p/original/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/zWE4o8Ja0vbhgDfapGfZrabH6R9.png"
         },
         {
-            "id": "tt8622160",
+            "id": "tt0758745",
             "type": "series",
-            "name": "Star Trek: Academia da Frota Estelar",
+            "name": "Tudo Pela Vitória",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_7.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/rXtSdCGmG07zjAg5h7GR1v52ogX.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/bL8cdV1VwBjClt4mryvtB2R7P7R.png"
+            "background": "https://image.tmdb.org/t/p/original/dzHSMD1IY6RriYxkS3T2ysFdvdp.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/ry5LK0Sv37QlDA1dKynf9I1ccnH.png"
         },
         {
-            "id": "tt21066182",
+            "id": "tt39749708",
             "type": "series",
-            "name": "Magnum",
+            "name": "No Limite da Lei",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_8.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/los8S8iCRn5Q7irl0LNAp6C6Gmz.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/f52pjd8qszYQstFbgl8Hoousu0i.png"
+            "background": "https://image.tmdb.org/t/p/original/gC6NyZkkyxwzip33k6XJ5ngP0dy.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/8hXwQvqbhztklMyXjnhNhg9bk71.png"
         },
         {
-            "id": "tt33204276",
+            "id": "tt33546863",
             "type": "series",
-            "name": "Madison",
+            "name": "Off Campus: Amores Improváveis",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_9.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/2v3CGp4NHg5KLcbyMdwVrcVepWS.png"
+            "background": "https://image.tmdb.org/t/p/original/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+            "logo": "https://image.tmdb.org/t/p/w500/6VBh9QyUepypVJF95rQqinswvES.png"
         },
         {
-            "id": "tt27610198",
+            "id": "tt1190634",
             "type": "series",
-            "name": "O Incrível Circo Digital",
+            "name": "The Boys",
             "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/s_wd_10.jpg",
             "posterShape": "square",
-            "background": "https://image.tmdb.org/t/p/original/vPVdWiLUNQyaGMazyZGVAyRcYBG.jpg",
-            "logo": "https://image.tmdb.org/t/p/w500/AkV6KknSHEBXDyuOJQqKo9aaKbk.png"
+            "background": "https://images.metahub.space/background/medium/tt1190634/img"
         }
     ]
 }
