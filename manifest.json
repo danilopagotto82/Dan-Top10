@@ -1,8 +1,8 @@
 {
-    "id": "com.listatop10.stremio",
+    "id": "com.multiplos.top10.stremio",
     "version": "1.0.0",
-    "name": "Lista Top10 Oficial",
-    "description": "Listas do Top 10 atualizadas",
+    "name": "Meu Top 10 Múltiplo",
+    "description": "Coleção Dinâmica Top 10",
     "resources": [
         "catalog",
         "meta"
@@ -12,31 +12,20 @@
         "series"
     ],
     "idPrefixes": [
-        "tt"
+        "tt",
+        "tmdb:"
     ],
     "catalogs": [
         {
             "type": "movie",
-            "id": "top10_filmes_br",
-            "name": "🔝 Top 10 Filmes da Semana",
-            "posterShape": "square"
-        },
-        {
-            "type": "movie",
-            "id": "top10_filmes_wd",
-            "name": "🔝 Top 10  Estréias",
+            "id": "lista_1",
+            "name": "🔝 Top 10 da Semana",
             "posterShape": "square"
         },
         {
             "type": "series",
-            "id": "top10_series_br",
-            "name": "🔝 Top 10 Séries da Semana",
-            "posterShape": "square"
-        },
-        {
-            "type": "series",
-            "id": "top10_series_wd",
-            "name": "🔝 Top 10 Séries Brasil",
+            "id": "lista_1783519858193",
+            "name": "🔝 Top 10 da Semana ",
             "posterShape": "square"
         }
     ]
