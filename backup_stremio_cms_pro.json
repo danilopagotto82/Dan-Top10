@@ -1,0 +1,488 @@
+{
+  "addonName": "TOP10",
+  "color": "#810909",
+  "presetStyle": "disney",
+  "activeListId": "list_1784918650936",
+  "lists": [
+    {
+      "id": "list_1784918650936",
+      "name": "🔝 Top 10 - Shudder (JustWatch)",
+      "type": "top10",
+      "display": "both",
+      "preset": "shudder",
+      "source": "justwatch",
+      "slots": [
+        {
+          "id": 1,
+          "name": "A Odisseia",
+          "imdb": "tt33764258",
+          "tmdb": 1368337,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/muMwJAiMtReEHLKpKMWt2rMkYF7.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 2,
+          "name": "Mestres do Universo",
+          "imdb": "tt0427340",
+          "tmdb": 454639,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/atpb7NKSyM4bJSUY8vQTunzK4Na.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 3,
+          "name": "Backrooms: Um Não-Lugar",
+          "imdb": "tt26657236",
+          "tmdb": 1083381,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEl4BDBTGnhLiadZx0c9nHM8vBF.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/2aA8iPlMCks3k131ymFBAY6FL0b.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 4,
+          "name": "undertone",
+          "imdb": "tt35892608",
+          "tmdb": 1480387,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 5,
+          "name": "Devoradores de Estrelas",
+          "imdb": "tt12042730",
+          "tmdb": 687163,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2i8uru7rlbHKaoIbC2V4FZLT7uW.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 6,
+          "name": "Tróia",
+          "imdb": "tt0332452",
+          "tmdb": 652,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKp2NxUkqPVSPN2FdXUn9gxj4Nn.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 7,
+          "name": "Missão Refúgio",
+          "imdb": "tt32357218",
+          "tmdb": 1290821,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSvhZRkbYD9crC4nqy8uCk9EdFH.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 8,
+          "name": "Dia D",
+          "imdb": "tt15047880",
+          "tmdb": 1275779,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 9,
+          "name": "Obsessão",
+          "imdb": "tt37287335",
+          "tmdb": 1339713,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 10,
+          "name": "Desejo",
+          "imdb": "tt41617470",
+          "tmdb": 1668364,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/6iToFU4GaJz4OlLMx34v3VWV7JE.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "list_1784918770991",
+      "name": "🔝 Top 10 - Shudder (JustWatch)",
+      "type": "top10",
+      "display": "both",
+      "preset": "shudder",
+      "source": "justwatch",
+      "slots": [
+        {
+          "id": 1,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 8,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        }
+      ]
+    },
+    {
+      "id": "list_1784918833923",
+      "name": "🔝 Top 10 - Crunchyroll (JustWatch)",
+      "type": "top10",
+      "display": "both",
+      "preset": "crunchyroll",
+      "source": "justwatch",
+      "slots": [
+        {
+          "id": 1,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 8,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        }
+      ]
+    },
+    {
+      "id": "list_1784919039483",
+      "name": "🔝 Top 10 - Crunchyroll (JustWatch)",
+      "type": "top10",
+      "display": "both",
+      "preset": "crunchyroll",
+      "source": "justwatch",
+      "slots": [
+        {
+          "id": 1,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 2,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 3,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 4,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 5,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 6,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 7,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 8,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 9,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        },
+        {
+          "id": 10,
+          "name": "",
+          "imdb": "",
+          "tmdb": "",
+          "poster": "",
+          "backdrop": "",
+          "logo": "",
+          "type": "movie",
+          "active": false
+        }
+      ]
+    }
+  ]
+}
