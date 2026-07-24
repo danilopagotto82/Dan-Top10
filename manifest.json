@@ -1,0 +1,44 @@
+{
+  "id": "com.stremio.cms2026.multi",
+  "version": "5.2.0",
+  "name": "TOP10",
+  "description": "Catálogos Top 10 Dinâmicos",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt",
+    "tmdb:"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "list_1784918650936",
+      "name": "🔝 Top 10 - Shudder (JustWatch)",
+      "posterShape": "square"
+    },
+    {
+      "type": "series",
+      "id": "list_1784918770991",
+      "name": "🔝 Top 10 - Shudder (JustWatch)",
+      "posterShape": "square"
+    },
+    {
+      "type": "series",
+      "id": "list_1784918833923",
+      "name": "🔝 Top 10 - Crunchyroll (JustWatch)",
+      "posterShape": "square"
+    },
+    {
+      "type": "series",
+      "id": "list_1784919039483",
+      "name": "🔝 Top 10 - Crunchyroll (JustWatch)",
+      "posterShape": "square"
+    }
+  ]
+}
