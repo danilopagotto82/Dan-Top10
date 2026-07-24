@@ -16,7 +16,6 @@ async function scrapeFlixPatrol(service, isSeries) {
   const $ = cheerio.load(html);
   
   let titles = [];
-  // Seleciona as tabelas do FlixPatrol (Filmes ou Séries)
   const targetTableIdx = isSeries ? 1 : 0;
   
   $('table.table-hover').eq(targetTableIdx).find('tr').each((i, el) => {
