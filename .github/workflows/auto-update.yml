@@ -1,0 +1,22 @@
+name: 🤖 Robô FlixPatrol Brasil Auto-Update
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: npm install node-fetch cheerio
+      - name: Executar Raspagem do FlixPatrol Brasil
+        run: node scripts/updater.mjs
+      - name: Publicar Alterações no GitHub Pages
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 [FlixPatrol Scraper] Top 10 Brasil Atualizado"
+          branch: main
