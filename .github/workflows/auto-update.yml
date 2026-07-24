@@ -1,9 +1,8 @@
-name: 🤖 Robô FlixPatrol Brasil Auto-Update
+name: 🤖 Robô Auto-Curadoria
 on:
   schedule:
     - cron: '0 3 * * *'
   workflow_dispatch:
-
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -13,10 +12,8 @@ jobs:
         with:
           node-version: '20'
       - run: npm install node-fetch cheerio
-      - name: Executar Raspagem do FlixPatrol Brasil
-        run: node scripts/updater.mjs
-      - name: Publicar Alterações no GitHub Pages
-        uses: stefanzweifel/git-auto-commit-action@v5
+      - run: node scripts/updater.mjs
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "🤖 [FlixPatrol Scraper] Top 10 Brasil Atualizado"
+          commit_message: "🤖 [Scraper] Top 10 Preservando Curadoria"
           branch: main
