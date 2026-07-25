@@ -1,0 +1,84 @@
+{
+  "metas": [
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "A Casa do Dragão",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_1.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
+    },
+    {
+      "id": "tt35892608",
+      "type": "movie",
+      "name": "undertone",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_2.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg"
+    },
+    {
+      "id": "tt0332452",
+      "type": "movie",
+      "name": "Tróia",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_3.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg"
+    },
+    {
+      "id": "tt2861424",
+      "type": "series",
+      "name": "Rick e Morty",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_4.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg"
+    },
+    {
+      "id": "tt1196946",
+      "type": "series",
+      "name": "O Mentalista",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_5.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg"
+    },
+    {
+      "id": "tt17490712",
+      "type": "movie",
+      "name": "Mortal Kombat 2",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_6.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg"
+    },
+    {
+      "id": "tt27497448",
+      "type": "series",
+      "name": "O Cavaleiro dos Sete Reinos",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_7.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg"
+    },
+    {
+      "id": "tt31938062",
+      "type": "series",
+      "name": "The Pitt",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_8.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/z3BkMbCy5ajZPMyKEUwsPHuz2cV.jpg"
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_9.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/lthkKBLe1rX6iThgVFg22O02sJw.jpg"
+    },
+    {
+      "id": "tt1172049",
+      "type": "movie",
+      "name": "Demolição",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937467745_10.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/dapUorbOMzlaB12dACCtaiuaTQz.jpg"
+    }
+  ]
+}
