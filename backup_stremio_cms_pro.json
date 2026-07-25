@@ -1208,7 +1208,7 @@
       "id": "list_1784944375275",
       "name": "🔝 Top 10 - Shudder (FlixPatrol)",
       "type": "top10",
-      "display": "both",
+      "display": "discovery",
       "preset": "shudder",
       "source": "flixpatrol",
       "slots": [
