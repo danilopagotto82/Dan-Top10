@@ -2,7 +2,7 @@
   "addonName": "TOP10",
   "color": "#e3e3e3",
   "presetStyle": "netflix",
-  "activeListId": "list_1784938003364",
+  "activeListId": "list_1784944375275",
   "lists": [
     {
       "id": "list_1784921329143",
@@ -1086,11 +1086,11 @@
     },
     {
       "id": "list_1784938003364",
-      "name": "🔝 Top 10 - Crunchyroll (JustWatch)",
+      "name": "🔝 Top 10 - Crunchroll (FlixPatrol)",
       "type": "top10",
       "display": "discovery",
-      "preset": "crunchyroll",
-      "source": "justwatch",
+      "preset": "shudder",
+      "source": "flixpatrol",
       "slots": [
         {
           "id": 1,
@@ -1200,6 +1200,126 @@
           "backdrop": "https://image.tmdb.org/t/p/original/575sxZXNNulSlIz7DvtWH5r4lkC.jpg",
           "logo": "",
           "type": "series",
+          "active": true
+        }
+      ]
+    },
+    {
+      "id": "list_1784944375275",
+      "name": "🔝 Top 10 - Shudder (FlixPatrol)",
+      "type": "top10",
+      "display": "both",
+      "preset": "shudder",
+      "source": "flixpatrol",
+      "slots": [
+        {
+          "id": 1,
+          "name": "Faces da Morte",
+          "imdb": "tt14619456",
+          "tmdb": 855435,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJWSi6QEr5LLOMZlVmOBX09a2Bj.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 2,
+          "name": "Exit 8",
+          "imdb": "tt35222590",
+          "tmdb": 1408208,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/naszJRWpzgbrR9vdifVoQ9IpNqW.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 3,
+          "name": "Frutas Proibidas",
+          "imdb": "tt30691214",
+          "tmdb": 1450527,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/omzg1iiqJwMBMEIqSLKUBHtTRt.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/uIJzvhI9yzsOh7mFAXQQXf2I3Wp.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 4,
+          "name": "Não Estou Sozinha",
+          "imdb": "tt24249072",
+          "tmdb": 1137205,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hYkj2VV2nWx7Q9UFnHpQSxPkERV.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/A6KaZEXI9NJ1nwjmzTQDkiDTDWN.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 5,
+          "name": "Terror",
+          "imdb": "tt2708480",
+          "tmdb": 75191,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUVn5mScv83FfwrRUUR694yA7bd.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/ssyZgYScV9eClakZDwu4sPrgMmy.jpg",
+          "logo": "",
+          "type": "series",
+          "active": true
+        },
+        {
+          "id": 6,
+          "name": "This Is Not a Test",
+          "imdb": "tt35669125",
+          "tmdb": 1428990,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/oZqxDDByIei1UVDgw7ZBXJCHHtI.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/oAGVaGiS6yJtNYBFN9kPe40ISCv.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 7,
+          "name": "O Som da Morte",
+          "imdb": "tt29550683",
+          "tmdb": 1193501,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1tX11KQzujSDXdszFNRvQbbNi72.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/rfawRNnOrpqlvTi3Xn4XRjkxx66.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 8,
+          "name": "Navio Fantasma",
+          "imdb": "tt0288477",
+          "tmdb": 9645,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/urUo9sIRlFk8WfGkREZs9AEq3C3.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/r4yVwsLF2pJr4C50pWizn9fYNbF.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 9,
+          "name": "Não Fale o Mal",
+          "imdb": "tt27534307",
+          "tmdb": 1114513,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tjj473rnrNzPwWgLFNF0gsPXmU.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg",
+          "logo": "",
+          "type": "movie",
+          "active": true
+        },
+        {
+          "id": 10,
+          "name": "Peter Pan: Pesadelo na Terra do Nunca",
+          "imdb": "tt21955520",
+          "tmdb": 1020414,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5p0wQ24CWJ4rBxcJtBNs0uc4ech.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/w3R8LTPU3ocl6oXuNkXmqw5bIFi.jpg",
+          "logo": "",
+          "type": "movie",
           "active": true
         }
       ]
