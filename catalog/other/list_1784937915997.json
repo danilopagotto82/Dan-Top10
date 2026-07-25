@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt26656917",
+      "type": "series",
+      "name": "A Agência",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/9itOpkXcVrJDlGvRDMaLjUdTwrs.jpg"
+    },
+    {
+      "id": "tt34991493",
+      "type": "series",
+      "name": "Rancho Dutton",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg"
+    },
+    {
+      "id": "tt5834204",
+      "type": "series",
+      "name": "O Conto da Aia",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg"
+    },
+    {
+      "id": "tt0452046",
+      "type": "series",
+      "name": "Mentes Criminosas",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg"
+    },
+    {
+      "id": "tt4236770",
+      "type": "series",
+      "name": "Yellowstone",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg"
+    },
+    {
+      "id": "tt0417299",
+      "type": "series",
+      "name": "Avatar: A Lenda de Aang",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/kU98MbVVgi72wzceyrEbClZmMFe.jpg"
+    },
+    {
+      "id": "tt33204276",
+      "type": "series",
+      "name": "Madison",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg"
+    },
+    {
+      "id": "tt14186672",
+      "type": "series",
+      "name": "Landman",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/mh2UczqEXJJVgqohbyZbHTuxwhL.jpg"
+    },
+    {
+      "id": "tt21454134",
+      "type": "movie",
+      "name": "Clube dos Vândalos",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/kwGvFyRtGSSm8AFfnRNXoZTQmJj.jpg"
+    },
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937915997_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg"
+    }
+  ]
+}
