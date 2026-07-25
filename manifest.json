@@ -152,7 +152,16 @@
       "type": "series",
       "id": "list_1784944375275",
       "name": "🔝 Top 10 - Shudder (FlixPatrol)",
-      "posterShape": "square"
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": true,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
     }
   ]
 }
