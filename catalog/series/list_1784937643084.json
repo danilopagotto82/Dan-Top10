@@ -1,0 +1,84 @@
+{
+  "metas": [
+    {
+      "id": "tt4873118",
+      "type": "movie",
+      "name": "O Pacto",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_1.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/eTvN54pd83TrSEOz6wbsXEJktCV.jpg"
+    },
+    {
+      "id": "tt14532380",
+      "type": "series",
+      "name": "Lockdown Americano & Desbancando Borat",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_2.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/jHTEv1JlnfXdnTFXW4OsDhkHy2X.jpg"
+    },
+    {
+      "id": "tt34378301",
+      "type": "movie",
+      "name": "Jack Ryan de Tom Clancy: Guerra Fantasma",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_3.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/dd31qJxOarrHyGZwYsCzOjobQzP.jpg"
+    },
+    {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_4.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg"
+    },
+    {
+      "id": "tt5788792",
+      "type": "series",
+      "name": "Maravilhosa Sra. Maisel",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_5.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/vQ77kC1amsZECKIxkUIsMJCtBVp.jpg"
+    },
+    {
+      "id": "tt4158110",
+      "type": "series",
+      "name": "Mr. Robot",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_6.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/4ceSkV7cmCon4exXaZwuhW1VdE0.jpg"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Devoradores de Estrelas",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_7.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg"
+    },
+    {
+      "id": "tt0427340",
+      "type": "movie",
+      "name": "Mestres do Universo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_8.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_9.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+    },
+    {
+      "id": "tt33071426",
+      "type": "movie",
+      "name": "O Drama",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937643084_10.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/gQxnJoswBzsENExzygVnFiemvK7.jpg"
+    }
+  ]
+}
