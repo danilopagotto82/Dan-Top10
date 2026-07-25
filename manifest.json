@@ -1,6 +1,6 @@
 {
   "id": "com.stremio.cms2026.multi",
-  "version": "5.5.0",
+  "version": "6.0.0",
   "name": "TOP10",
   "description": "Catálogos Top 10 Dinâmicos",
   "resources": [
@@ -77,37 +77,76 @@
       "type": "series",
       "id": "list_1784937824309",
       "name": "🔝 Top 10 - Netflix (JustWatch)",
-      "posterShape": "square"
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": true,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
     },
     {
       "type": "series",
       "id": "list_1784937847165",
       "name": "🔝 Top 10 - Apple TV+ (JustWatch)",
-      "posterShape": "square"
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": true,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
     },
     {
       "type": "series",
       "id": "list_1784937915997",
       "name": "🔝 Top 10 - Paramount+ (JustWatch)",
-      "posterShape": "square"
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": true,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
     },
     {
       "type": "series",
       "id": "list_1784937945553",
       "name": "🔝 Top 10 - Globoplay (JustWatch)",
-      "posterShape": "square"
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": true,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
     },
     {
       "type": "series",
       "id": "list_1784938003364",
       "name": "🔝 Top 10 - Crunchyroll (JustWatch)",
-      "posterShape": "square"
-    },
-    {
-      "type": "series",
-      "id": "list_1784938041163",
-      "name": "🔝 Top 10 - Shudder (JustWatch)",
-      "posterShape": "square"
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": true,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
     }
   ]
 }
