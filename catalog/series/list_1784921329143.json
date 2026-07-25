@@ -1,0 +1,60 @@
+{
+  "metas": [
+    {
+      "id": "tt0427340",
+      "type": "movie",
+      "name": "Mestres do Universo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_1.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg"
+    },
+    {
+      "id": "tt33764258",
+      "type": "movie",
+      "name": "A Odisseia",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_2.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg"
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms: Um Não-Lugar",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_3.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/2aA8iPlMCks3k131ymFBAY6FL0b.jpg"
+    },
+    {
+      "id": "tt35892608",
+      "type": "movie",
+      "name": "undertone",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_4.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Devoradores de Estrelas",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_5.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg"
+    },
+    {
+      "id": "tt0332452",
+      "type": "movie",
+      "name": "Tróia",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_6.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg"
+    },
+    {
+      "id": "tmdb:1709112",
+      "type": "movie",
+      "name": "Marigold Burning Desire 2026 ~ Day 2",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_10.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/wJSA7mnbmqaLCsBHDhBbuvZfHUA.jpg"
+    }
+  ]
+}
