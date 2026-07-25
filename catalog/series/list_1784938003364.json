@@ -1,84 +1,84 @@
 {
   "metas": [
     {
-      "id": "tt12343534",
-      "type": "series",
-      "name": "Jujutsu Kaisen",
+      "id": "tt14619456",
+      "type": "movie",
+      "name": "Faces da Morte",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_1.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/lthkKBLe1rX6iThgVFg22O02sJw.jpg"
+      "background": "https://image.tmdb.org/t/p/original/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg"
     },
     {
-      "id": "tt37532356",
-      "type": "series",
-      "name": "Daemons do Reino das Sombras",
+      "id": "tt35222590",
+      "type": "movie",
+      "name": "Exit 8",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_2.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/qc30hdrxHQgN5wiopU4bkRZow5L.jpg"
+      "background": "https://image.tmdb.org/t/p/original/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg"
     },
     {
-      "id": "tt2560140",
-      "type": "series",
-      "name": "Attack on Titan",
+      "id": "tt30691214",
+      "type": "movie",
+      "name": "Frutas Proibidas",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_3.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg"
+      "background": "https://image.tmdb.org/t/p/original/uIJzvhI9yzsOh7mFAXQQXf2I3Wp.jpg"
     },
     {
-      "id": "tt13293588",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "id": "tt24249072",
+      "type": "movie",
+      "name": "Não Estou Sozinha",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_4.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
+      "background": "https://image.tmdb.org/t/p/original/A6KaZEXI9NJ1nwjmzTQDkiDTDWN.jpg"
     },
     {
-      "id": "tt0388629",
+      "id": "tt2708480",
       "type": "series",
-      "name": "One Piece",
+      "name": "Terror",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_5.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg"
+      "background": "https://image.tmdb.org/t/p/original/ssyZgYScV9eClakZDwu4sPrgMmy.jpg"
     },
     {
-      "id": "tt32869308",
-      "type": "series",
-      "name": "Tomb Raider King",
+      "id": "tt35669125",
+      "type": "movie",
+      "name": "This Is Not a Test",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_6.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg"
+      "background": "https://image.tmdb.org/t/p/original/oAGVaGiS6yJtNYBFN9kPe40ISCv.jpg"
     },
     {
-      "id": "tt22248376",
-      "type": "series",
-      "name": "Frieren e a Jornada para o Além",
+      "id": "tt29550683",
+      "type": "movie",
+      "name": "O Som da Morte",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_7.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg"
+      "background": "https://image.tmdb.org/t/p/original/rfawRNnOrpqlvTi3Xn4XRjkxx66.jpg"
     },
     {
-      "id": "tt6908976",
-      "type": "series",
-      "name": "Os Cavaleiros do Zodíaco: Saint Seiya",
+      "id": "tt0288477",
+      "type": "movie",
+      "name": "Navio Fantasma",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_8.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/lA3MKdT3QOrYGe5dg7Uzuceu8zZ.jpg"
+      "background": "https://image.tmdb.org/t/p/original/r4yVwsLF2pJr4C50pWizn9fYNbF.jpg"
     },
     {
-      "id": "tt32550889",
-      "type": "series",
-      "name": "Witch Hat Atelier",
+      "id": "tt0397065",
+      "type": "movie",
+      "name": "A Casa de Cera",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_9.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/bmvXN6uWGhw8DEgaM09jYOKyqjv.jpg"
+      "background": "https://image.tmdb.org/t/p/original/2J7re6BvXXxLFXCYZpTUmRKkTHn.jpg"
     },
     {
-      "id": "tt2098220",
-      "type": "series",
-      "name": "Hunter x Hunter",
+      "id": "tt0389722",
+      "type": "movie",
+      "name": "30 Dias de Noite",
       "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784938003364_10.jpg",
       "posterShape": "square",
-      "background": "https://image.tmdb.org/t/p/original/bFKKyCI89Xq98Gul8cGox8K3sZa.jpg"
+      "background": "https://image.tmdb.org/t/p/original/w8VDpCcKezdBbXJEWMHwttI35mU.jpg"
     }
   ]
 }
