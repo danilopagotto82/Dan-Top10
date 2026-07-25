@@ -1,0 +1,84 @@
+{
+  "metas": [
+    {
+      "id": "tt14619456",
+      "type": "movie",
+      "name": "Faces da Morte",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_1.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg"
+    },
+    {
+      "id": "tt35222590",
+      "type": "movie",
+      "name": "Exit 8",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_2.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/3cVrg7tzSf5AgEecYWDOSAzXAeX.jpg"
+    },
+    {
+      "id": "tt30691214",
+      "type": "movie",
+      "name": "Frutas Proibidas",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_3.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/uIJzvhI9yzsOh7mFAXQQXf2I3Wp.jpg"
+    },
+    {
+      "id": "tt24249072",
+      "type": "movie",
+      "name": "Não Estou Sozinha",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_4.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/A6KaZEXI9NJ1nwjmzTQDkiDTDWN.jpg"
+    },
+    {
+      "id": "tt2708480",
+      "type": "series",
+      "name": "Terror",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_5.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/ssyZgYScV9eClakZDwu4sPrgMmy.jpg"
+    },
+    {
+      "id": "tt35669125",
+      "type": "movie",
+      "name": "This Is Not a Test",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_6.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/oAGVaGiS6yJtNYBFN9kPe40ISCv.jpg"
+    },
+    {
+      "id": "tt29550683",
+      "type": "movie",
+      "name": "O Som da Morte",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_7.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/rfawRNnOrpqlvTi3Xn4XRjkxx66.jpg"
+    },
+    {
+      "id": "tt0288477",
+      "type": "movie",
+      "name": "Navio Fantasma",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_8.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/r4yVwsLF2pJr4C50pWizn9fYNbF.jpg"
+    },
+    {
+      "id": "tt27534307",
+      "type": "movie",
+      "name": "Não Fale o Mal",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_9.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/1fL2S8LKxCVE9KoPRBXeagmBtex.jpg"
+    },
+    {
+      "id": "tt21955520",
+      "type": "movie",
+      "name": "Peter Pan: Pesadelo na Terra do Nunca",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784944375275_10.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/w3R8LTPU3ocl6oXuNkXmqw5bIFi.jpg"
+    }
+  ]
+}
