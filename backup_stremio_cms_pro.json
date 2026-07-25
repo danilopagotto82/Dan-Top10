@@ -2,7 +2,7 @@
   "addonName": "TOP10",
   "color": "#e3e3e3",
   "presetStyle": "netflix",
-  "activeListId": "list_1784921329143",
+  "activeListId": "list_1784937331685",
   "lists": [
     {
       "id": "list_1784921329143",
@@ -80,36 +80,36 @@
         },
         {
           "id": 7,
-          "name": "shelter 2026 ⚠️",
-          "imdb": "tt2861424",
-          "tmdb": 60625,
-          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qfd0e2uMbVInX3YdeFbDsfxi1t.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+          "name": "Missão Refúgio",
+          "imdb": "tt32357218",
+          "tmdb": 1290821,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hSvhZRkbYD9crC4nqy8uCk9EdFH.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
           "logo": "",
-          "type": "series",
-          "active": false
+          "type": "movie",
+          "active": true
         },
         {
           "id": 8,
-          "name": "the dish 2026 ⚠️",
-          "imdb": "tt1196946",
-          "tmdb": 5920,
-          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1ZcT5tHzUeQ7zgYecOVoWxH9FL.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/original/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+          "name": "Dia D",
+          "imdb": "tt15047880",
+          "tmdb": 1275779,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/pmff1wjKrgJi92PPr346lAifzlg.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
           "logo": "",
-          "type": "series",
-          "active": false
+          "type": "movie",
+          "active": true
         },
         {
           "id": 9,
-          "name": "obsessao 2026 ⚠️",
-          "imdb": "tt37042085",
-          "tmdb": 1487861,
-          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLTKARaZn0fH5zr3j5EkKtJhu1G.jpg",
-          "backdrop": "https://image.tmdb.org/t/p/original/FzZ8NGlSDFYJ7g9f2aURPvItFt.jpg",
+          "name": "Obsessão",
+          "imdb": "tt37287335",
+          "tmdb": 1339713,
+          "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUc6IDf5ChjM1UyQye21qFBeJY0.jpg",
+          "backdrop": "https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
           "logo": "",
           "type": "movie",
-          "active": false
+          "active": true
         },
         {
           "id": 10,
@@ -608,7 +608,7 @@
       "id": "list_1784937824309",
       "name": "🔝 Top 10 - Netflix (JustWatch)",
       "type": "top10",
-      "display": "both",
+      "display": "discovery",
       "preset": "netflix",
       "source": "justwatch",
       "slots": [
@@ -728,7 +728,7 @@
       "id": "list_1784937847165",
       "name": "🔝 Top 10 - Apple TV+ (JustWatch)",
       "type": "top10",
-      "display": "both",
+      "display": "discovery",
       "preset": "apple-tv",
       "source": "justwatch",
       "slots": [
@@ -848,7 +848,7 @@
       "id": "list_1784937915997",
       "name": "🔝 Top 10 - Paramount+ (JustWatch)",
       "type": "top10",
-      "display": "both",
+      "display": "discovery",
       "preset": "paramount",
       "source": "justwatch",
       "slots": [
@@ -968,7 +968,7 @@
       "id": "list_1784937945553",
       "name": "🔝 Top 10 - Globoplay (JustWatch)",
       "type": "top10",
-      "display": "both",
+      "display": "discovery",
       "preset": "globoplay",
       "source": "justwatch",
       "slots": [
@@ -1088,7 +1088,7 @@
       "id": "list_1784938003364",
       "name": "🔝 Top 10 - Crunchyroll (JustWatch)",
       "type": "top10",
-      "display": "both",
+      "display": "discovery",
       "preset": "crunchyroll",
       "source": "justwatch",
       "slots": [
