@@ -1,6 +1,6 @@
 {
   "id": "com.stremio.cms2026.multi",
-  "version": "6.6.0",
+  "version": "7.0.0",
   "name": "TOP10",
   "description": "Catálogos Top 10 Dinâmicos",
   "resources": [
@@ -9,7 +9,8 @@
   ],
   "types": [
     "movie",
-    "series"
+    "series",
+    "other"
   ],
   "idPrefixes": [
     "tt",
@@ -17,26 +18,44 @@
   ],
   "catalogs": [
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784921329143",
       "name": "🔝 Top 10 Brasil (Filmes)",
-      "posterShape": "square"
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784937331685",
       "name": "🔝 Top 10 Séries (Brasil)",
-      "posterShape": "square"
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784937467745",
       "name": "🔝 Top 10 - Max (JustWatch)",
       "posterShape": "square",
       "extra": [
         {
           "name": "genre",
-          "isRequired": true,
+          "isRequired": false,
           "options": [
             "Top 10"
           ]
@@ -44,14 +63,14 @@
       ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784937643084",
       "name": "🔝 Top 10 - Prime Video (JustWatch)",
       "posterShape": "square",
       "extra": [
         {
           "name": "genre",
-          "isRequired": true,
+          "isRequired": false,
           "options": [
             "Top 10"
           ]
@@ -59,14 +78,14 @@
       ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784937688733",
       "name": "🔝 Top 10 - Disney+ (JustWatch)",
       "posterShape": "square",
       "extra": [
         {
           "name": "genre",
-          "isRequired": true,
+          "isRequired": false,
           "options": [
             "Top 10"
           ]
@@ -74,14 +93,14 @@
       ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784937824309",
       "name": "🔝 Top 10 - Netflix (JustWatch)",
       "posterShape": "square",
       "extra": [
         {
           "name": "genre",
-          "isRequired": true,
+          "isRequired": false,
           "options": [
             "Top 10"
           ]
@@ -89,14 +108,14 @@
       ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784937847165",
       "name": "🔝 Top 10 - Apple TV+ (JustWatch)",
       "posterShape": "square",
       "extra": [
         {
           "name": "genre",
-          "isRequired": true,
+          "isRequired": false,
           "options": [
             "Top 10"
           ]
@@ -104,14 +123,14 @@
       ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784937915997",
       "name": "🔝 Top 10 - Paramount+ (JustWatch)",
       "posterShape": "square",
       "extra": [
         {
           "name": "genre",
-          "isRequired": true,
+          "isRequired": false,
           "options": [
             "Top 10"
           ]
@@ -119,14 +138,14 @@
       ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784937945553",
       "name": "🔝 Top 10 - Globoplay (JustWatch)",
       "posterShape": "square",
       "extra": [
         {
           "name": "genre",
-          "isRequired": true,
+          "isRequired": false,
           "options": [
             "Top 10"
           ]
@@ -134,14 +153,14 @@
       ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784938003364",
       "name": "🔝 Top 10 - Crunchroll (FlixPatrol)",
       "posterShape": "square",
       "extra": [
         {
           "name": "genre",
-          "isRequired": true,
+          "isRequired": false,
           "options": [
             "Top 10"
           ]
@@ -149,14 +168,14 @@
       ]
     },
     {
-      "type": "series",
+      "type": "other",
       "id": "list_1784944375275",
       "name": "🔝 Top 10 - Shudder (FlixPatrol)",
       "posterShape": "square",
       "extra": [
         {
           "name": "genre",
-          "isRequired": true,
+          "isRequired": false,
           "options": [
             "Top 10"
           ]
