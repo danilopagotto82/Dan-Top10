@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt34771210",
+      "type": "series",
+      "name": "Eu Vou Te Encontrar",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg"
+    },
+    {
+      "id": "tt3960394",
+      "type": "series",
+      "name": "Entrevista com o Vampiro",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/1tADVruLbywl7P3TOVQmNza3aAO.jpg"
+    },
+    {
+      "id": "tt42127457",
+      "type": "series",
+      "name": "Agente Kim: Reativado",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg"
+    },
+    {
+      "id": "tt26584495",
+      "type": "movie",
+      "name": "Acompanhante Perfeita",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/qA6MHDGDY0LyutjLUgFJRbPXLpW.jpg"
+    },
+    {
+      "id": "tt41617470",
+      "type": "movie",
+      "name": "Desejo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/oBter8Y5p2ZFUwWgQ1T9pulGFTJ.jpg"
+    },
+    {
+      "id": "tt9018736",
+      "type": "series",
+      "name": "Avatar: O Último Mestre do Ar",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/aVvRQJ2Ckhlym4uh0YGc166CUoP.jpg"
+    },
+    {
+      "id": "tt2861424",
+      "type": "series",
+      "name": "Rick e Morty",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg"
+    },
+    {
+      "id": "tt1196946",
+      "type": "series",
+      "name": "O Mentalista",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg"
+    },
+    {
+      "id": "tt37042085",
+      "type": "movie",
+      "name": "Elize: Sombras de uma Mulher",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/FzZ8NGlSDFYJ7g9f2aURPvItFt.jpg"
+    },
+    {
+      "id": "tt0139239",
+      "type": "movie",
+      "name": "Vamos Nessa",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937824309_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/6kY0imilYIH7yuxFEQJA7mTlq1H.jpg"
+    }
+  ]
+}
