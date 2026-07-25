@@ -1,0 +1,84 @@
+{
+  "metas": [
+    {
+      "id": "tt34866681",
+      "type": "series",
+      "name": "Lucky",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_1.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/hKXMOOvQwXiL01hfYG5nrkH0tEP.jpg"
+    },
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "A Casa do Dragão",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_2.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
+    },
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_3.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+    },
+    {
+      "id": "tt3960394",
+      "type": "series",
+      "name": "Entrevista com o Vampiro",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_4.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/1tADVruLbywl7P3TOVQmNza3aAO.jpg"
+    },
+    {
+      "id": "tt31849235",
+      "type": "series",
+      "name": "Os Westies: Donos do Oeste",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_5.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/tT2MwxaST3Fx1Dg4u9v82sDrIu.jpg"
+    },
+    {
+      "id": "tt0118414",
+      "type": "series",
+      "name": "A Odisséia",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_6.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/jmCegdxo0woQ3GpI3IuR7XxSMWN.jpg"
+    },
+    {
+      "id": "tt34771210",
+      "type": "series",
+      "name": "Eu Vou Te Encontrar",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_7.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg"
+    },
+    {
+      "id": "tt34675596",
+      "type": "series",
+      "name": "Cabo do Medo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_8.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg"
+    },
+    {
+      "id": "tt30494226",
+      "type": "series",
+      "name": "Parceiras no Crime",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_9.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/jwCXxvbLno5GrGDA9KvQ22uLziM.jpg"
+    },
+    {
+      "id": "tt16026746",
+      "type": "series",
+      "name": "X-Men '97",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937331685_10.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg"
+    }
+  ]
+}
