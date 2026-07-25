@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "name": "Origem",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg"
+    },
+    {
+      "id": "tt0203259",
+      "type": "series",
+      "name": "Lei & Ordem: Unidade de Vítimas Especiais",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg"
+    },
+    {
+      "id": "tt9055008",
+      "type": "series",
+      "name": "Evil: Contatos Sobrenaturais",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/ttB60pxSxMyyW9mIDlq89RLf0vQ.jpg"
+    },
+    {
+      "id": "tt7491982",
+      "type": "series",
+      "name": "FBI",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/5DFvscYGpcFaQMJljCic5gbzVe6.jpg"
+    },
+    {
+      "id": "tt2194499",
+      "type": "movie",
+      "name": "Questão de Tempo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/einbto9qLXFx9QXxEHylaxDbKPx.jpg"
+    },
+    {
+      "id": "tt7120018",
+      "type": "movie",
+      "name": "Albatroz",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/2Opz7juUGSKZuRYRnMJKCsgzRwG.jpg"
+    },
+    {
+      "id": "tt2805096",
+      "type": "series",
+      "name": "Chicago P.D.: Distrito 21",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/rhp8vYG1sIFtqH3ETmHJuI5Z3Cb.jpg"
+    },
+    {
+      "id": "tt0258463",
+      "type": "movie",
+      "name": "A Identidade Bourne",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/kJaRWmy1BGq3pHyE94LOTteiHer.jpg"
+    },
+    {
+      "id": "tt0088763",
+      "type": "movie",
+      "name": "De Volta para o Futuro",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg"
+    },
+    {
+      "id": "tt0126029",
+      "type": "movie",
+      "name": "Shrek",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784937945553_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/sRvXNDItGlWCqtO3j6wks52FmbD.jpg"
+    }
+  ]
+}
