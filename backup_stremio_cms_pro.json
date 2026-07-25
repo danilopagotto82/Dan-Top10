@@ -2,12 +2,12 @@
   "addonName": "TOP10",
   "color": "#e3e3e3",
   "presetStyle": "netflix",
-  "activeListId": "list_1784944375275",
+  "activeListId": "list_1784937643084",
   "lists": [
     {
       "id": "list_1784921329143",
       "name": "🔝 Top 10 Brasil (Filmes)",
-      "type": "top10",
+      "type": "other",
       "display": "both",
       "preset": "netflix",
       "source": "justwatch",
@@ -127,7 +127,7 @@
     {
       "id": "list_1784937331685",
       "name": "🔝 Top 10 Séries (Brasil)",
-      "type": "top10",
+      "type": "other",
       "display": "both",
       "preset": "netflix",
       "source": "justwatch",
@@ -247,8 +247,8 @@
     {
       "id": "list_1784937467745",
       "name": "🔝 Top 10 - Max (JustWatch)",
-      "type": "top10",
-      "display": "discovery",
+      "type": "other",
+      "display": "both",
       "preset": "max",
       "source": "justwatch",
       "slots": [
@@ -367,8 +367,8 @@
     {
       "id": "list_1784937643084",
       "name": "🔝 Top 10 - Prime Video (JustWatch)",
-      "type": "top10",
-      "display": "discovery",
+      "type": "other",
+      "display": "both",
       "preset": "amazon-prime",
       "source": "justwatch",
       "slots": [
@@ -482,13 +482,14 @@
           "type": "movie",
           "active": true
         }
-      ]
+      ],
+      "shape": "square"
     },
     {
       "id": "list_1784937688733",
       "name": "🔝 Top 10 - Disney+ (JustWatch)",
-      "type": "top10",
-      "display": "discovery",
+      "type": "other",
+      "display": "both",
       "preset": "disney",
       "source": "justwatch",
       "slots": [
@@ -607,8 +608,8 @@
     {
       "id": "list_1784937824309",
       "name": "🔝 Top 10 - Netflix (JustWatch)",
-      "type": "top10",
-      "display": "discovery",
+      "type": "other",
+      "display": "both",
       "preset": "netflix",
       "source": "justwatch",
       "slots": [
@@ -727,8 +728,8 @@
     {
       "id": "list_1784937847165",
       "name": "🔝 Top 10 - Apple TV+ (JustWatch)",
-      "type": "top10",
-      "display": "discovery",
+      "type": "other",
+      "display": "both",
       "preset": "apple-tv",
       "source": "justwatch",
       "slots": [
@@ -847,8 +848,8 @@
     {
       "id": "list_1784937915997",
       "name": "🔝 Top 10 - Paramount+ (JustWatch)",
-      "type": "top10",
-      "display": "discovery",
+      "type": "other",
+      "display": "both",
       "preset": "paramount",
       "source": "justwatch",
       "slots": [
@@ -967,8 +968,8 @@
     {
       "id": "list_1784937945553",
       "name": "🔝 Top 10 - Globoplay (JustWatch)",
-      "type": "top10",
-      "display": "discovery",
+      "type": "other",
+      "display": "both",
       "preset": "globoplay",
       "source": "justwatch",
       "slots": [
@@ -1087,8 +1088,8 @@
     {
       "id": "list_1784938003364",
       "name": "🔝 Top 10 - Crunchroll (FlixPatrol)",
-      "type": "top10",
-      "display": "discovery",
+      "type": "other",
+      "display": "both",
       "preset": "shudder",
       "source": "flixpatrol",
       "slots": [
@@ -1207,8 +1208,8 @@
     {
       "id": "list_1784944375275",
       "name": "🔝 Top 10 - Shudder (FlixPatrol)",
-      "type": "top10",
-      "display": "discovery",
+      "type": "other",
+      "display": "both",
       "preset": "shudder",
       "source": "flixpatrol",
       "slots": [
