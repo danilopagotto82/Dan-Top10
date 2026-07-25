@@ -49,6 +49,30 @@
       "background": "https://image.tmdb.org/t/p/original/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg"
     },
     {
+      "id": "tt32357218",
+      "type": "movie",
+      "name": "Missão Refúgio",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_7.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg"
+    },
+    {
+      "id": "tt15047880",
+      "type": "movie",
+      "name": "Dia D",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_8.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg"
+    },
+    {
+      "id": "tt37287335",
+      "type": "movie",
+      "name": "Obsessão",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1784921329143_9.jpg",
+      "posterShape": "square",
+      "background": "https://image.tmdb.org/t/p/original/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg"
+    },
+    {
       "id": "tmdb:1709112",
       "type": "movie",
       "name": "Marigold Burning Desire 2026 ~ Day 2",
