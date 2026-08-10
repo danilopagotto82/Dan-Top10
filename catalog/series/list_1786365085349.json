@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt29701448",
+      "type": "movie",
+      "name": "Cinco Tipos de Medo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/mfpeeEnVKJj0egLcbwq7GeNB7MD.jpg"
+    },
+    {
+      "id": "tt9813792",
+      "type": "series",
+      "name": "Origem",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg"
+    },
+    {
+      "id": "tt27543632",
+      "type": "movie",
+      "name": "A Empregada",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/zTnAnYIn0Iv3cn0ZHlzLhou3ybm.jpg"
+    },
+    {
+      "id": "tt19861162",
+      "type": "movie",
+      "name": "O Retorno",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/vgT0kAaWU88do5RrCfHhXRVPnXM.jpg"
+    },
+    {
+      "id": "tt9055008",
+      "type": "series",
+      "name": "Evil: Contatos Sobrenaturais",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/ttB60pxSxMyyW9mIDlq89RLf0vQ.jpg"
+    },
+    {
+      "id": "tt0100514",
+      "type": "movie",
+      "name": "Rookie: Um Profissional do Perigo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/9Njx2J5p4f4OaH6vZZHUCxw73uK.jpg"
+    },
+    {
+      "id": "tt43358063",
+      "type": "series",
+      "name": "Jogada de Risco",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/swmZEoWpW7tBhaIszLtIE8rgQkO.jpg"
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/lthkKBLe1rX6iThgVFg22O02sJw.jpg"
+    },
+    {
+      "id": "tt5834204",
+      "type": "series",
+      "name": "O Conto da Aia",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg"
+    },
+    {
+      "id": "tt0017136",
+      "type": "movie",
+      "name": "Metrópolis",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365085349_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/eeMoFKxjjiCi6iep2GEZtSAMYIr.jpg"
+    }
+  ]
+}
