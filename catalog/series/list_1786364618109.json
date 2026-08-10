@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt14688458",
+      "type": "series",
+      "name": "Silo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg"
+    },
+    {
+      "id": "tt10986410",
+      "type": "series",
+      "name": "Ted Lasso",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/3KLmx6nLaiYe07kSwuWdpTEHJgE.jpg"
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Devoradores de Estrelas",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg"
+    },
+    {
+      "id": "tt0427340",
+      "type": "movie",
+      "name": "Mestres do Universo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/yQIdU11DYQQp0neGtGtGxbGfRer.jpg"
+    },
+    {
+      "id": "tt35618070",
+      "type": "series",
+      "name": "Sterling Point",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/ebLym6w04CzYJBLZScB1rrzm6uY.jpg"
+    },
+    {
+      "id": "tt33071426",
+      "type": "movie",
+      "name": "O Drama",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg"
+    },
+    {
+      "id": "tt6320628",
+      "type": "movie",
+      "name": "Homem-Aranha: Longe de Casa",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/vamhMTvh9m9zFHDoR0v1nRtf6T4.jpg"
+    },
+    {
+      "id": "tt32358025",
+      "type": "movie",
+      "name": "Corrida dos Bichos",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/1WWukZCoavYEofNVRHJqE4t1urW.jpg"
+    },
+    {
+      "id": "tt1289406",
+      "type": "movie",
+      "name": "Harry Brown",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/7pZtTbxn8d6Blgcf4EUysdEu3bO.jpg"
+    },
+    {
+      "id": "tt14905854",
+      "type": "movie",
+      "name": "Hamnet: A Vida Antes de Hamlet",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364618109_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg"
+    }
+  ]
+}
