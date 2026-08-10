@@ -1,0 +1,186 @@
+{
+  "id": "com.stremio.cms2026.multi",
+  "version": "7.0.0",
+  "name": "TOP10",
+  "description": "Catálogos Top 10 Dinâmicos",
+  "resources": [
+    "catalog",
+    "meta"
+  ],
+  "types": [
+    "movie",
+    "series",
+    "other"
+  ],
+  "idPrefixes": [
+    "tt",
+    "tmdb:"
+  ],
+  "catalogs": [
+    {
+      "type": "series",
+      "id": "list_1",
+      "name": "🔝 Top 10 - Netflix (JustWatch)",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786364511873",
+      "name": "🔝 Top 10 - Max (JustWatch)",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786364618109",
+      "name": "🔝 Top 10 - Prime Video (JustWatch)",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786364724152",
+      "name": "🔝 Top 10 - Disney+ (JustWatch)",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786364880853",
+      "name": "🔝 Top 10 - Apple TV+ (JustWatch)",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786364999350",
+      "name": "🔝 Top 10 - Paramount+ (JustWatch)",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786365085349",
+      "name": "🔝 Top 10 - Globoplay (JustWatch)",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786365211584",
+      "name": "🔝 Top 10 - Crunchyroll (JustWatch)",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786365320870",
+      "name": "🔝 Top 10 - Shudder (FlixPatrol)",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786365500497",
+      "name": "🔝 Top 10 - Filmes",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    },
+    {
+      "type": "series",
+      "id": "list_1786365883702",
+      "name": "🔝 Top 10 - Séries",
+      "posterShape": "square",
+      "extra": [
+        {
+          "name": "genre",
+          "isRequired": false,
+          "options": [
+            "Top 10"
+          ]
+        }
+      ]
+    }
+  ]
+}
