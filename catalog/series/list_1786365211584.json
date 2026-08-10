@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/lthkKBLe1rX6iThgVFg22O02sJw.jpg"
+    },
+    {
+      "id": "tt32820897",
+      "type": "movie",
+      "name": "Demon Slayer: Kimetsu no Yaiba Castelo Infinito",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg"
+    },
+    {
+      "id": "tt37532356",
+      "type": "series",
+      "name": "Daemons do Reino das Sombras",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/qc30hdrxHQgN5wiopU4bkRZow5L.jpg"
+    },
+    {
+      "id": "tt0388629",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg"
+    },
+    {
+      "id": "tt13293588",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg"
+    },
+    {
+      "id": "tt2560140",
+      "type": "series",
+      "name": "Attack on Titan",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/rqbCbjB19amtOtFQbb3K2lgm2zv.jpg"
+    },
+    {
+      "id": "tt21209876",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/xMNH87maNLt9n2bMDYeI6db5VFm.jpg"
+    },
+    {
+      "id": "tt37532893",
+      "type": "series",
+      "name": "BLACK TORCH",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg"
+    },
+    {
+      "id": "tt22248376",
+      "type": "series",
+      "name": "Frieren e a Jornada para o Além",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/rBOnrVlck7BIlGeWVlzYiZeg4l2.jpg"
+    },
+    {
+      "id": "tt0185133",
+      "type": "series",
+      "name": "Yu Yu Hakusho",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365211584_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/uNM5dbnPJXJJs1eggepRWjSvdIR.jpg"
+    }
+  ]
+}
