@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt34383465",
+      "type": "movie",
+      "name": "Nightborn",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/jVeYae744cR2ogx9ShQ3qXOcRiZ.jpg"
+    },
+    {
+      "id": "tt35050712",
+      "type": "movie",
+      "name": "Insaciável",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg"
+    },
+    {
+      "id": "tt14619456",
+      "type": "movie",
+      "name": "Faces da Morte",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/qdyeQg2gWj1L8cDlwU3tI4s0Hub.jpg"
+    },
+    {
+      "id": "tt35222590",
+      "type": "movie",
+      "name": "Exit 8",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/f5csnjqQj5qdqc0EZchon94hXZ6.jpg"
+    },
+    {
+      "id": "tt0114608",
+      "type": "movie",
+      "name": "Contos do Além Túmulo: Os Demônios Da Noite",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/tXyuQ8nw8yG7fUVikcQ2pzJWUFT.jpg"
+    },
+    {
+      "id": "tt29550683",
+      "type": "movie",
+      "name": "O Som da Morte",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/rfawRNnOrpqlvTi3Xn4XRjkxx66.jpg"
+    },
+    {
+      "id": "tt35669125",
+      "type": "movie",
+      "name": "This Is Not a Test",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/oAGVaGiS6yJtNYBFN9kPe40ISCv.jpg"
+    },
+    {
+      "id": "tt0116365",
+      "type": "movie",
+      "name": "Os Espíritos",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/krR08gys45BTnY3qXIfBJVDKrvK.jpg"
+    },
+    {
+      "id": "tt30691214",
+      "type": "movie",
+      "name": "Frutas Proibidas",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/jAOpZDgy4eMY6o6oGdUiXk4SqvE.jpg"
+    },
+    {
+      "id": "tt2708480",
+      "type": "series",
+      "name": "Terror",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786365320870_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/ssyZgYScV9eClakZDwu4sPrgMmy.jpg"
+    }
+  ]
+}
