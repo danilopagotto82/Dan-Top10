@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt13111078",
+      "type": "series",
+      "name": "Lioness",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/4NBYDOnEjAzyuP7CMkD5s7fs44K.jpg"
+    },
+    {
+      "id": "tt12327578",
+      "type": "series",
+      "name": "Star Trek: Strange New Worlds",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/627K48naKH2Y3Rz47Ydra4qktdI.jpg"
+    },
+    {
+      "id": "tt18259538",
+      "type": "movie",
+      "name": "Avatar Aang: O Último Mestre do Ar",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/ezbrL1dMymKQZw7mDEWa2ZTzN7d.jpg"
+    },
+    {
+      "id": "tt11379026",
+      "type": "series",
+      "name": "Fantasmas",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/3MmRal3Uw3O0TVMvhfM63Z3mPz3.jpg"
+    },
+    {
+      "id": "tt9055008",
+      "type": "series",
+      "name": "Evil: Contatos Sobrenaturais",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/ttB60pxSxMyyW9mIDlq89RLf0vQ.jpg"
+    },
+    {
+      "id": "tt5834204",
+      "type": "series",
+      "name": "O Conto da Aia",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/sokTOq0zAmPS7wCR4qd4Kca35x7.jpg"
+    },
+    {
+      "id": "tt0417299",
+      "type": "series",
+      "name": "Avatar: A Lenda de Aang",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/kU98MbVVgi72wzceyrEbClZmMFe.jpg"
+    },
+    {
+      "id": "tt26656917",
+      "type": "series",
+      "name": "A Agência",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/9itOpkXcVrJDlGvRDMaLjUdTwrs.jpg"
+    },
+    {
+      "id": "tt31510819",
+      "type": "series",
+      "name": "Terra da Máfia",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/tQqbbxBAdW2ql8vbOqMOJbtSQ7O.jpg"
+    },
+    {
+      "id": "tt33204276",
+      "type": "series",
+      "name": "Madison",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364999350_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/lhQQE9vlNCKOYWamaHW8CBiI09B.jpg"
+    }
+  ]
+}
