@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt36303968",
+      "type": "series",
+      "name": "Fúria",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/iAOPgUlh7inOebFrUFHAjnFRCGS.jpg"
+    },
+    {
+      "id": "tt33612209",
+      "type": "movie",
+      "name": "O Diabo Veste Prada 2",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg"
+    },
+    {
+      "id": "tt16026746",
+      "type": "series",
+      "name": "X-Men '97",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg"
+    },
+    {
+      "id": "tt1764551",
+      "type": "movie",
+      "name": "Psycho Killer: Em Busca do Assassino",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/gMC4KIdHsj37w3kPI7mRUJLC57Q.jpg"
+    },
+    {
+      "id": "tt27543562",
+      "type": "series",
+      "name": "Estilhaços",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/vTzfZ55Qp1GP3uKGSMlsLEYrn6.jpg"
+    },
+    {
+      "id": "tt14452776",
+      "type": "series",
+      "name": "O Urso",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg"
+    },
+    {
+      "id": "tt1520211",
+      "type": "series",
+      "name": "The Walking Dead",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/rAOjnEFTuNysY7bot8zonhImGMh.jpg"
+    },
+    {
+      "id": "tt8036976",
+      "type": "movie",
+      "name": "Socorro!",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/bpp58yHuQmpt6xwggI63mVRw7po.jpg"
+    },
+    {
+      "id": "tt34224947",
+      "type": "movie",
+      "name": "Animales",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/3jgATRIFenOrgNKEC9bFv5QqKGf.jpg"
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "Jujutsu Kaisen",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364724152_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/lthkKBLe1rX6iThgVFg22O02sJw.jpg"
+    }
+  ]
+}
