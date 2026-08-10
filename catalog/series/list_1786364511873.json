@@ -1,0 +1,114 @@
+{
+  "metas": [
+    {
+      "id": "tt11198330",
+      "type": "series",
+      "name": "A Casa do Dragão",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_1.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg"
+    },
+    {
+      "id": "tt27497393",
+      "type": "series",
+      "name": "Stuart Não Consegue Salvar o Universo",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_2.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/k5ujbFUxNlBQQ6sh3UmApwadVTV.jpg"
+    },
+    {
+      "id": "tt2250912",
+      "type": "movie",
+      "name": "Homem-Aranha: De Volta ao Lar",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_3.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/fn4n6uOYcB6Uh89nbNPoU2w80RV.jpg"
+    },
+    {
+      "id": "tt1196946",
+      "type": "series",
+      "name": "O Mentalista",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_4.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg"
+    },
+    {
+      "id": "tt17490712",
+      "type": "movie",
+      "name": "Mortal Kombat 2",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_5.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg"
+    },
+    {
+      "id": "tt2861424",
+      "type": "series",
+      "name": "Rick e Morty",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_6.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/iFOkrSrJRwE27PwbyQeYLlMJXzw.jpg"
+    },
+    {
+      "id": "tt0332452",
+      "type": "movie",
+      "name": "Tróia",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_7.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/cu3lhUReOdqFAo5K1jesoftwiBj.jpg"
+    },
+    {
+      "id": "tt33852162",
+      "type": "movie",
+      "name": "Vida Privada",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_8.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/3fZ5HvkrjaS34sZERshWm9koXdF.jpg"
+    },
+    {
+      "id": "tt0053125",
+      "type": "movie",
+      "name": "Intriga Internacional",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_9.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/OR8oloCZ3klJtB7Y0i8pSqWw5a.jpg"
+    },
+    {
+      "id": "tt39368539",
+      "type": "series",
+      "name": "Monstros de Deus",
+      "poster": "https://danilopagotto82.github.io/Dan-Top10/capas/list_1786364511873_10.jpg",
+      "posterShape": "square",
+      "genres": [
+        "Top 10"
+      ],
+      "background": "https://image.tmdb.org/t/p/original/gQUA5I6dOC17soO3BLagbztB6v2.jpg"
+    }
+  ]
+}
